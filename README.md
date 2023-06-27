@@ -7,9 +7,9 @@
 
 **Studying:**
 - TypeScript: [![TypeScript](https://img.shields.io/badge/TypeScript-4.4-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
- - Node.js: [![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green?logo=node.js&logoColor=white)](https://nodejs.org/)
+  - Node.js: [![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green?logo=node.js&logoColor=white)](https://nodejs.org/)
 - Java: [![Java](https://img.shields.io/badge/Java-11-red?logo=java&logoColor=white)](https://www.oracle.com/java/)
- - Spring: [![Spring](https://img.shields.io/badge/Spring-5.3.9-green?logo=spring&logoColor=white)](https://spring.io/)
+  - Spring: [![Spring](https://img.shields.io/badge/Spring-5.3.9-green?logo=spring&logoColor=white)](https://spring.io/)
 
 **Version and Development:**
 - AWS: [![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-orange?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
