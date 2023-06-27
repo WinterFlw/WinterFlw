@@ -1,6 +1,6 @@
 
 ![WinterFlw's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterFlw&show_icons=true&theme=radical)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe_icy)](https://solved.ac/wannabe_icy/)
-
+###
 **Stack:**
 -  [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B), [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
 <!--
