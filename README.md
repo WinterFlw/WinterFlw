@@ -1,9 +1,5 @@
 **Stack:**
-- Python: [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-  - Flask: [![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-  - FastAPI: [![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-  - Django: [![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-- C++: [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+- [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)[![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)[![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)[![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 **Studying:**
 - TypeScript: [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
