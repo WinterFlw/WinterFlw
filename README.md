@@ -6,9 +6,7 @@
 - [![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/) [![Spring](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 
 **Version and Development:**
-- AWS: [![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-- Git: [![Git](https://img.shields.io/badge/Git-lightgrey?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-- Goorm IDE: [![Goorm IDE](https://img.shields.io/badge/Goorm%20IDE-lightblue?style=flat-square)](https://ide.goorm.io/)
+- [![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Git](https://img.shields.io/badge/Git-lightgrey?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Goorm IDE](https://img.shields.io/badge/Goorm%20IDE-lightblue?style=flat-square)](https://ide.goorm.io/)
 
 **RDBMS:**
 - MySQL: [![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
