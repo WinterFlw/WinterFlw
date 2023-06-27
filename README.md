@@ -1,5 +1,5 @@
 **Stack:**
-- Python: [![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)](https://www.python.org/)  - C++: [![C++](https://img.shields.io/badge/C++-Language-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+- Python: [![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)](https://www.python.org/),- C++: [![C++](https://img.shields.io/badge/C++-Language-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
   - Flask: [![Flask](https://img.shields.io/badge/Flask-2.0-black?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
   - FastAPI: [![FastAPI](https://img.shields.io/badge/FastAPI-0.70.0-teal?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
   - Django: [![Django](https://img.shields.io/badge/Django-3.2-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
