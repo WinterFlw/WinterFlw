@@ -14,4 +14,4 @@
 
 **Studying:**
 - [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-- [![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/) [![Spring](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
+- [![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white&logoWidth=20)](https://www.oracle.com/java/) [![Spring](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
