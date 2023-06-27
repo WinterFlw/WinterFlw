@@ -3,11 +3,9 @@
  - Flask: [![Flask](https://img.shields.io/badge/Flask-2.0-black?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
  - FastAPI: [![FastAPI](https://img.shields.io/badge/FastAPI-0.70.0-teal?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
  - Django: [![Django](https://img.shields.io/badge/Django-3.2-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
-- C: [![C](https://img.shields.io/badge/C-Language-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 - C++: [![C++](https://img.shields.io/badge/C++-Language-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 **Studying:**
-- JavaScript: [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - TypeScript: [![TypeScript](https://img.shields.io/badge/TypeScript-4.4-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
  - Node.js: [![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green?logo=node.js&logoColor=white)](https://nodejs.org/)
 - Java: [![Java](https://img.shields.io/badge/Java-11-red?logo=java&logoColor=white)](https://www.oracle.com/java/)
