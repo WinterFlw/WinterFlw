@@ -8,6 +8,6 @@
 **Version and Development:**
 - [![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Git](https://img.shields.io/badge/Git-lightgrey?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Goorm IDE](https://img.shields.io/badge/Goorm%20IDE-lightblue?style=flat-square)](https://ide.goorm.io/)
 
-**DB:**
+**DB**
 - RDBMS: [![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 - NoSQL: [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
