@@ -18,8 +18,7 @@
 - NoSQL: [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
 -->
 **Studying:**
-- [![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white&logoWidth=20)](https://www.oracle.com/java/) [![Spring](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
-- [![Swift](https://img.shields.io/badge/Swift-gray?style=flat-square&logo=swift)](https://developer.apple.com/swift/)
+- [![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white&logoWidth=20)](https://www.oracle.com/java/) - [![Swift](https://img.shields.io/badge/Swift-gray?style=flat-square&logo=swift)](https://developer.apple.com/swift/)
 
 
 
