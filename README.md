@@ -19,7 +19,7 @@
 -->
 **Studying:**
 - [![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white&logoWidth=20)](https://www.oracle.com/java/) [![Spring](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
-- [![Swift](https://img.shields.io/badge/Swift-blue?style=flat-square&logo=swift)](https://developer.apple.com/swift/)
+- [![Swift](https://img.shields.io/badge/Swift-gray?style=flat-square&logo=swift)](https://developer.apple.com/swift/)
 
 
 
