@@ -7,14 +7,10 @@
 - [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 - [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
    > [![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-<!--
-**Deep Learning Frameworks:**
 
--->
 **Version and Development:**
 - [![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
     > [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/) [![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logo=amazon-api-gateway&logoColor=white)](https://aws.amazon.com/api-gateway/) [![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
-- [![Git](https://img.shields.io/badge/Git-lightgrey?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 <!--
 **DB**
 - RDBMS: [![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
