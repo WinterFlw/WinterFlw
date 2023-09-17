@@ -18,6 +18,6 @@
 -->
 **Studying:**
 - [![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white&logoWidth=20)](https://www.oracle.com/java/) [![Swift](https://img.shields.io/badge/Swift-gray?style=flat-square&logo=swift)](https://developer.apple.com/swift/)
-- [![Core ML](https://img.shields.io/badge/Core%20ML-gray?style=flat-square&logo=apple)](https://developer.apple.com/documentation/coreml) [![Create ML](https://img.shields.io/badge/Create%20ML-gray?style=flat-square&logo=apple)](https://developer.apple.com/documentation/createml)
-- [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
+- [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+  > [![Core ML](https://img.shields.io/badge/Core%20ML-gray?style=flat-square&logo=apple)](https://developer.apple.com/documentation/coreml) [![Create ML](https://img.shields.io/badge/Create%20ML-gray?style=flat-square&logo=apple)](https://developer.apple.com/documentation/createml)
