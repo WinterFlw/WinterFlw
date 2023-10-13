@@ -3,7 +3,7 @@
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe_icy)](https://solved.ac/wannabe_icy/)
 ###
-I'm Learing ML!
+I'm Learing ML! And I want to analyze finance data with AI.
 
 **Stack:**
 - [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
