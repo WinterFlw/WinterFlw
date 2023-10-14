@@ -17,11 +17,11 @@ I'm Learing ML! And I want to analyze finance data with AI.
 **Version and Development:**
 - [![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
     > [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/) [![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logo=amazon-api-gateway&logoColor=white)](https://aws.amazon.com/api-gateway/) [![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
-<!--
+
 **DB**
-- RDBMS: [![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
-- NoSQL: [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
--->
+- RDBMS: [![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+- NoSQL: [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 **Studying:**
 - [![QGIS](https://img.shields.io/badge/QGIS-3.22.0-brightgreen?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org/)
 - [![Swift](https://img.shields.io/badge/Swift-gray?style=flat-square&logo=swift)](https://developer.apple.com/swift/)
