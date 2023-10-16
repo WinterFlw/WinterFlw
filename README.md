@@ -39,6 +39,7 @@ I'm Learing ML! And I want to analyze finance data with AI.
 **GIS and Machine Learning:**
 
 [![QGIS](https://img.shields.io/badge/QGIS-3.22.0-brightgreen?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org/)
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
