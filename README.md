@@ -23,9 +23,9 @@ I'm learning js + ts to make my map!
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-lightgray?style=flat-square&logo=express)](https://expressjs.com/)
 
-**Version and Development:**
+**Amazon Web Service:**
 
-[![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+<!--[![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)-->
 [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
 [![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logo=amazon-api-gateway&logoColor=white)](https://aws.amazon.com/api-gateway/)
 [![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
