@@ -3,8 +3,8 @@
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe_icy)](https://solved.ac/wannabe_icy/)
 ###
-I'm Learing ML! And I want to analyze finance data with AI.
-I'm learning js + ts to make my map!
+I will Learing ML! And I want to analyze finance data with AI.
+I'm learning JS + TS to do cloncoding about 호갱노노 and 아실 web!
 
 **Programming Languages:**
 
