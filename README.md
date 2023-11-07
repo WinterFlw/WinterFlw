@@ -6,7 +6,7 @@
 I will Learing ML! And I want to analyze finance data with AI.
 
 I'm learning JS + TS to do cloncoding about 호갱노노 and 아실 web!
-
+I want to analyze finance data!
 
 
 **Programming Languages:**
