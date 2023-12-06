@@ -5,8 +5,9 @@
 ###
 I will Learing ML! And I want to analyze finance data with AI.
 
-I'm learning JS + TS to do cloncoding about 호갱노노 and 아실 web!
-I want to analyze finance data. And run Local LLM!
+I'm learning JS + TS to do cloncoding about 호갱노노 and 아실!
+I will run LocaL LLM on Mac M3 Max and devleope ios APP too.
+And also I want to analyse data about finance.
 
 
 **Programming Languages:**
