@@ -1,9 +1,10 @@
-_<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterFlw)](https://github.com/WinterFlw/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterFlw)](https://github.com/WinterFlw/github-readme-stats)
 [![WinterFlw's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterFlw&show_icons=true&theme=radical)](https://github.com/WinterFlw/github-readme-stats)
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe_icy)](https://solved.ac/wannabe_icy/)
 ###
 I want to analyze finance data, live computer vision, forcast with AI.
+
 I will run LocaL LLM on Mac M3 Max and devleope ios APP too.
 
 **Programming Languages:**
@@ -41,4 +42,4 @@ I will run LocaL LLM on Mac M3 Max and devleope ios APP too.
 [![Swift](https://img.shields.io/badge/Swift-gray?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Core ML](https://img.shields.io/badge/Core%20ML-gray?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/documentation/coreml)
 [![Create ML](https://img.shields.io/badge/Create%20ML-gray?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/documentation/createml)
-_
+
